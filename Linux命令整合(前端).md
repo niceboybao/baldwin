@@ -14,3 +14,6 @@
 ```
 mv /test1/file1 /test3/file2
 ```
+
+### 2.命令格式
+
