@@ -61,6 +61,11 @@ control + option + b
 control + shift + k 
 ```
 
+### 打开偏好设置
+
+```
+ command + ,/ctrl + 
+```
 
 
 
