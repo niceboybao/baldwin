@@ -1,4 +1,4 @@
-## Atom shortcut key for Mac
+## some shortcut key of Atom for Mac
 ###### 在使用Atom开发的过程中，平时累计的一些比较使用的快捷键！
 ###### 作者：guangwei.bao
 
