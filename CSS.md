@@ -41,7 +41,7 @@
 
 ```
 
-p {text-align:center; color:red;}
+p {text-align:center; color:red;} 
 
 ```
 
