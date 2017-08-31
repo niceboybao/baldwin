@@ -22,9 +22,11 @@ GitHub是2000多万开发者的家园，他们一起工作，共同主持和审�
 
 ## 或者
 
-- niceboybao@gmail.com
+邮箱1: niceboybao@gmail.com
 
-- guangwei.bao@hand-china.com
+邮箱2: guangwei.bao@hand-china.com
+
+linkedin: guangwei.bao@hand-china.com
 
 ## 总有那么一些话让我感同身受。好好细读一番，然后我会携上GitHub，浪迹天涯！
 
