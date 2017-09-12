@@ -11,4 +11,4 @@
 ps：其实对于升级系统前，已经是任何来源选项的，还会显示，不会改变，但别的选项的，升级后就会消失.
 ```
 
-![](../Images/macBook/preference1.png)
+![](../1.0.Imagess/macBook/preference1.png)
