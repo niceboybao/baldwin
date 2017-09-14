@@ -16,7 +16,7 @@
 
 ## 3.Communication
 
-![](1.0.Images/tools/github.jpeg)
+![](1.1.Images/tools/github.jpeg)
 
 GitHub是2000多万开发者的家园，他们一起工作，共同主持和审核代码，管理项目，并一起构建软件。
 

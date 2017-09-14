@@ -10,7 +10,7 @@
 
 当JavaScript代码执行的时候，会进入不同的执行上下文，这些执行上下文会构成了一个执行上下文栈（Execution context stack，ECS）。
 
-![](http://upload-1.0.Images.jianshu.io/upload_1.0.Images/1846966-9ded98302b647e3d.png?1.0.ImagesMogr2/auto-orient/strip%7C1.0.ImagesView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1846966-9ded98302b647e3d.png?imagesMogr2/auto-orient/strip%7CimagesView2/2/w/1240)
 
 - 变量对象（Variable object，VO）: 变量对象即包含变量的对象，除了我们无法访问它外，和普通对象没什么区别。
 
@@ -124,7 +124,7 @@ function A(){
 }
 ```
 
-看下示意图： ![](http://pic002.cnblogs.com/1.0.Images/2012/327530/2012063017020623.jpg)
+看下示意图： ![](http://pic002.cnblogs.com/images/2012/327530/2012063017020623.jpg)
 
 ### 【执行期】
 
