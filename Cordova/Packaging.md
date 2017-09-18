@@ -47,7 +47,7 @@ cordova plaform ls
 
 ## 5.要是ios打包，使用Xcode的情况
 
-在cordova platform add ios 后打开Xcode ![](../1.1.Images/tools/Xcode1.png) 注意选择team为hand ![](../1.1.Images/tools/Xcode3.png) and ![](../1.1.Images/tools/Xcode2.png)
+在cordova platform add ios 后打开Xcode ![](../Images/tools/Xcode1.png) 注意选择team为hand ![](../Images/tools/Xcode3.png) and ![](../Images/tools/Xcode2.png)
 
 ## #.Tips
 
