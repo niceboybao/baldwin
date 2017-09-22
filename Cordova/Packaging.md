@@ -42,12 +42,22 @@ cordova plaform ls
 
 ```
 1.cordova prepare ios/android
-2.cordova build ios/android
+2.//cordova build ios/android(build布置在Xcode上面执行)
 ```
 
 ## 5.要是ios打包，使用Xcode的情况
 
-在cordova platform add ios 后打开Xcode ![](../Images/tools/Xcode1.png) 注意选择team为hand ![](../Images/tools/Xcode3.png) and ![](../Images/tools/Xcode2.png)
+在cordova platform add ios 后打开Xcode
+
+![](../Images/tools/Xcode1.png)
+
+注意选择team为hand
+
+![](../Images/tools/Xcode3.png)
+
+and
+
+![](../Images/tools/Xcode2.png)
 
 ## #.Tips
 
