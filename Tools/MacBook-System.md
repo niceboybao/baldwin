@@ -24,3 +24,7 @@ ps：其实对于升级系统前，已经是任何来源选项的，还会显示
 ![](../Images/macBook/group2.png)
 
 **_注：有一些应该程序，如Chrome 有的时候默认会安装在Macintosh HD下面，mackPro在购买后第一次设置时，当时用户名会和根用户名一致，所有更换用户名会导致类似Macintosh HD下的应用不可访问或者损坏_**
+
+## 3\. macBook pro 锁定屏幕的文案修改
+
+![](../Images/macBook/lock_screen_hint.png)
