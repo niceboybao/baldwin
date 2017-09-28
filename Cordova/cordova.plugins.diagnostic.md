@@ -1,32 +1,32 @@
 # Cordova插件diagnostic详解
 
-- [概述](#1)
+- [概述](#概述)
 
-  - [安装](#1.1)
+  - [安装](#安装)
 
-- [方法详解](#2)
+- [方法详解](#方法详解)
 
-  - [Android and iOS](#2.1)
+  - [Android and iOS](#Android-and-iOS)
 
-    - [isLocationAuthorized()](#2.1.1)
-    - [requestLocationAuthorization()](#2.1.2)
-    - [isCameraAuthorized()](#2.1.3)
-    - [requestCameraAuthorization()](#2.1.4)
-    - [isMicrophoneAuthorized()](#2.1.5)
-    - [requestMicrophoneAuthorization()](#2.1.6)
-    - [isContactsAuthorized()](#2.1.7)
-    - [requestContactsAuthorization()](#2.1.8)
+    - [isLocationAuthorized()](#islocationauthorized)
+    - [requestLocationAuthorization()](#requestLocationAuthorization)
+    - [isCameraAuthorized()](#isCameraAuthorized)
+    - [requestCameraAuthorization()](#requestCameraAuthorization)
+    - [isMicrophoneAuthorized()](#isMicrophoneAuthorized)
+    - [requestMicrophoneAuthorization()](#requestMicrophoneAuthorization)
+    - [isContactsAuthorized()](#isContactsAuthorized)
+    - [requestContactsAuthorization()](#requestContactsAuthorization)
 
   - [Only iOS](#Only-iOS)
 
     - [isCameraRollAuthorized()](#isCameraRollAuthorized)
     - [requestCameraRollAuthorization()](#requestCameraRollAuthorization)
 
-# 1.概述
+# 概述
 
 这款iOS、Android和Windows 10手机的cor陶/phonegap插件用于管理设备设置，比如位置、蓝牙和WiFi。它支持管理运行时权限、设备硬件和核心操作系统特性。
 
-## 1.1安装
+## 安装
 
 这里只针对cordova的打包平台android 或者ios做安装命令
 
@@ -36,11 +36,11 @@ $ cordova plugin add cordova.plugins.diagnostic
 
 **cordova plugin ls** 即可插件是否安装完成
 
-# 2.方法详解
+# 方法详解
 
 Cordova diagnostic插件支持android，ios，windowPhone等移动平台，具体方法如下：(一下方法不够具体全面，全是在平时工作中遇到的一个整理，谢谢体贴)
 
-## 2.1Android and iOS
+## <span id="Android-and-iOS">Android and iOS</span>
 
 (以下方法仅支持Android 和iOS)
 
@@ -63,7 +63,7 @@ cordova.plugins.diagnostic.isLocationAuthorized(function(authorized){
 });
 ```
 
-### 2.1.1requestLocationAuthorization()
+### requestLocationAuthorization()
 
 请求应用程序的位置授权。
 
@@ -96,7 +96,7 @@ cordova.plugins.diagnostic.requestLocationAuthorization(function(status){
 }, cordova.plugins.diagnostic.locationAuthorizationMode.ALWAYS);
 ```
 
-#### 2.1.2Example Android usage
+#### Example Android usage
 
 ```
 cordova.plugins.diagnostic.requestLocationAuthorization(function(status){
@@ -119,7 +119,7 @@ cordova.plugins.diagnostic.requestLocationAuthorization(function(status){
 });
 ```
 
-### 2.1.3isCameraAuthorized()
+### isCameraAuthorized()
 
 检查应用程序是否被授权使用照相机。
 
