@@ -6,7 +6,7 @@
 
 - [方法详解](#方法详解)
 
-  - [Android and iOS](#Android-and-iOS)
+  - [Android and iOS](#android-and-ios)
 
     - [isLocationAuthorized()](#islocationauthorized)
     - [requestLocationAuthorization()](#requestLocationAuthorization)
@@ -17,7 +17,7 @@
     - [isContactsAuthorized()](#isContactsAuthorized)
     - [requestContactsAuthorization()](#requestContactsAuthorization)
 
-  - [Only iOS](#Only-iOS)
+  - [Only iOS](#only-ios)
 
     - [isCameraRollAuthorized()](#isCameraRollAuthorized)
     - [requestCameraRollAuthorization()](#requestCameraRollAuthorization)
@@ -40,7 +40,7 @@ $ cordova plugin add cordova.plugins.diagnostic
 
 Cordova diagnostic插件支持android，ios，windowPhone等移动平台，具体方法如下：(一下方法不够具体全面，全是在平时工作中遇到的一个整理，谢谢体贴)
 
-## <span id="Android-and-iOS">Android and iOS</span>
+## Android and iOS
 
 (以下方法仅支持Android 和iOS)
 
