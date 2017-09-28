@@ -51,7 +51,7 @@ cordova plaform ls
 
 ![](../Images/tools/Xcode1.png)
 
-注意选择team为hand
+注意选择team为HAND
 
 ![](../Images/tools/Xcode3.png)
 
