@@ -9,18 +9,18 @@
   - [Android and iOS](#android-and-ios)
 
     - [isLocationAuthorized()](#islocationauthorized)
-    - [requestLocationAuthorization()](#requestLocationAuthorization)
-    - [isCameraAuthorized()](#isCameraAuthorized)
-    - [requestCameraAuthorization()](#requestCameraAuthorization)
-    - [isMicrophoneAuthorized()](#isMicrophoneAuthorized)
-    - [requestMicrophoneAuthorization()](#requestMicrophoneAuthorization)
-    - [isContactsAuthorized()](#isContactsAuthorized)
-    - [requestContactsAuthorization()](#requestContactsAuthorization)
+    - [requestLocationAuthorization()](#requestlocationauthorization)
+    - [isCameraAuthorized()](#iscameraauthorized)
+    - [requestCameraAuthorization()](#requestcameraauthorization)
+    - [isMicrophoneAuthorized()](#ismicrophoneauthorized)
+    - [requestMicrophoneAuthorization()](#requestmicrophoneauthorization)
+    - [isContactsAuthorized()](#iscontactsauthorized)
+    - [requestContactsAuthorization()](#requestcontactsauthorization)
 
   - [Only iOS](#only-ios)
 
-    - [isCameraRollAuthorized()](#isCameraRollAuthorized)
-    - [requestCameraRollAuthorization()](#requestCameraRollAuthorization)
+    - [isCameraRollAuthorized()](#isCameraRollauthorized)
+    - [requestCameraRollAuthorization()](#requestCamerarollauthorization)
 
 # 概述
 
