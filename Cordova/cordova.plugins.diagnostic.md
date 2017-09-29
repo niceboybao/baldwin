@@ -19,8 +19,8 @@
 
   - [Only iOS](#only-ios)
 
-    - [isCameraRollAuthorized()](#isCameraRollauthorized)
-    - [requestCameraRollAuthorization()](#requestCamerarollauthorization)
+    - [isCameraRollAuthorized()](#iscamerarollauthorized)
+    - [requestCameraRollAuthorization()](#requestcamerarollauthorization)
 
 # 概述
 
