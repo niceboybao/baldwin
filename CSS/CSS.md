@@ -1,6 +1,6 @@
 # CSS教程个人总结
 
-## Author：guangwei.bao && Date：2017-04-25
+ Author：guangwei.bao && Date：2017-04-25
 
 ## CSS 概述
 
