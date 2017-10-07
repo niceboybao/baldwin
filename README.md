@@ -26,7 +26,9 @@ GitHub是2000多万开发者的家园，他们一起工作，共同主持和审�
 
 ### 你可以在下面的方式中找到我
 
-[Github](https://github.com/niceboybao) [知乎](https://www.zhihu.com/people/baldwin9191) [掘金](https://juejin.im/collection/58eca3746a22654fd3f92026)
+[Github](https://github.com/niceboybao)
+[知乎](https://www.zhihu.com/people/baldwin9191)
+[掘金](https://juejin.im/collection/58eca3746a22654fd3f92026)
 
 ### 或者
 
