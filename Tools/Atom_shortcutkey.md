@@ -66,3 +66,5 @@ control + shift + k
 ```
  command + ,/ctrl +
 ```
+
+activate-power-mode

@@ -1,5 +1,9 @@
 # Cordova插件diagnostic详解
 
+cordova.plugins.diagnostic插件自己整理的一些常用方法，想要了解更多请参考[cordova.plugins.diagnostic](https://github.com/dpa99c/cordova-diagnostic-plugin)
+
+--------------------------------------------------------------------------------
+
 - [概述](#概述)
 
   - [安装](#安装)
