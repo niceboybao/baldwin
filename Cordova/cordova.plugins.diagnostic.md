@@ -1,6 +1,6 @@
-# Cordova插件diagnostic详解
+# cordova.plugins.diagnostic详解
 
-cordova.plugins.diagnostic插件自己整理的一些常用方法，想要了解更多请参考[cordova.plugins.diagnostic](https://github.com/dpa99c/cordova-diagnostic-plugin)
+`cordova.plugins.diagnostic`插件自己整理的一些常用方法，想要了解更多请参考[cordova.plugins.diagnostic](https://github.com/dpa99c/cordova-diagnostic-plugin)
 
 --------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ cordova.plugins.diagnostic插件自己整理的一些常用方法，想要了解
 
 # 概述
 
-这款iOS、Android和Windows 10手机的cor陶/phonegap插件用于管理设备设置，比如位置、蓝牙和WiFi。它支持管理运行时权限、设备硬件和核心操作系统特性。
+这款iOS、Android和Windows 10手机的cordova/phonegap插件用于管理`设备设置权限`，比如位置、蓝牙、WiFi、相册相机、麦克风等。它支持管理运行时权限、设备硬件和核心操作系统特性。
 
 ## 安装
 
