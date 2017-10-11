@@ -1,13 +1,29 @@
 # navigation
+```
+foreach(var you in worlds) //遍历整个世界，只为找到你.
+{
+       if(you==&quot;myLove&quot;)   //当我发现你是我的真爱时,
+       {
+         myHeart[&quot;myWife&quot;]==you; //那么你就是我要找寻的人，我的妻子
+       }
 
-这个repository只是本人平时在工作和学习当中的，一些knowledge以及常用的resource的总结，作为本人个人 wiki 知识站点，分享希望大家喜欢！(These share important resource are from my usual work and learning！)
+}
+```
 
 ## 1.Getting Started
 
-## 2.Information
+These share important `resource` are from my usual work and learning,and hope you like!
+
+## 2.Folder Information
+
+|#|语法|效果|
+|---|---|----
+|1|[`images`](https://github.com/niceboybao/baldwin/blob/master/Cordova/Package.md) [`Json`](https://github.com/niceboybao/baldwin/blob/master/Cordova/Package.md)|Cordova的安装及打包流程
+|2|[`cordova.plugins.diagnostic`](https://github.com/niceboybao/baldwin/blob/master/Cordova/cordova.plugins.diagnostic.md)|用来管理`设备设置权限`，如位置、蓝牙、相机、麦克风等
+|3|[`Cordova-open-native-settings`](https://github.com/niceboybao/baldwin/blob/master/Cordova/cordova-open-native-settings.md)|在移动端上打开`操作系统设置`，如，打开键盘设置、Wifi、蓝牙、设置等
 
 ```
-Images Json 为辅助文件夹,方便其他文件夹的编辑与展示。总结为(辅助文件夹)
+images Json 为辅助文件夹,方便其他文件夹的编辑与展示。总结为(辅助文件夹)
 Tools 为一些IDE的平时常用教程和mac系统的常用教程。总结为(工具文件夹)
 CSS，js等 为前端开发者必备语言的平时整理。总结为(前端文件夹)
 Linux 为平时对一些后台知识的了解。总结为(后端文件夹)
@@ -18,7 +34,7 @@ markdown
 
 ## 3.Communication
 
-![](Images/tools/github.jpeg)
+![](static_res/images/tools/github.jpeg)
 
 GitHub是2000多万开发者的家园，他们一起工作，共同主持和审核代码，管理项目，并一起构建软件。
 
@@ -38,7 +54,7 @@ GitHub是2000多万开发者的家园，他们一起工作，共同主持和审�
 
 linkedin: guangwei.bao@hand-china.com
 
-### 总有那么一些话让我感同身受。好好细读一番，然后我会携上GitHub，浪迹天涯！
+### 总有那么一些情感让人刻苦铭心，总有那么一些话让人感同身受！
 
 ```
 你只闻到我的香水，却没看到我的汗水；
@@ -50,7 +66,6 @@ linkedin: guangwei.bao@hand-china.com
 但那又怎样，哪怕遍体鳞伤，也要活的漂亮！
 我是Baldwin，我为自己代言！
 ```
-
 ```
 . 放弃完美，多一分轻松
 . 面对现实，多一分从容
