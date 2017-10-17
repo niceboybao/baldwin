@@ -18,10 +18,15 @@ These share important `resource` are from my usual work and learning,and hope yo
 
 |#|语法|效果|
 |---|---|----
-|1|[`#.front-end-interview`](/tree/master/front-end-interview/Package.md)|平时自己整理的一些面试题(前端)
-|1|[`images`](https://github.com/niceboybao/baldwin/blob/master/Cordova/Package.md) [`Json`](https://github.com/niceboybao/baldwin/blob/master/Cordova/Package.md)|Cordova的安装及打包流程
-|2|[`cordova.plugins.diagnostic`](https://github.com/niceboybao/baldwin/blob/master/Cordova/cordova.plugins.diagnostic.md)|用来管理`设备设置权限`，如位置、蓝牙、相机、麦克风等
-|3|[`Cordova-open-native-settings`](https://github.com/niceboybao/baldwin/blob/master/Cordova/cordova-open-native-settings.md)|在移动端上打开`操作系统设置`，如，打开键盘设置、Wifi、蓝牙、设置等
+|1|[`front-end-interview`](https://github.com/niceboybao/baldwin/tree/master/front-end-interview)|平时自己整理的一些面试题(前端)
+|2|[`angular`](https://github.com/niceboybao/baldwin/tree/master/angular) [`react`](https://github.com/niceboybao/baldwin/tree/master/react)|angular and react resource
+|3|[`cordova`](https://github.com/niceboybao/baldwin/tree/master/cordova)|常用打包插件的整理
+|4|[`es6`](https://github.com/niceboybao/baldwin/tree/master/es6) [`typescript`](https://github.com/niceboybao/baldwin/tree/master/typescript)|es6 and typescript resource
+|5|[`javaScript`](https://github.com/niceboybao/baldwin/tree/master/javaScript) [`Layout`](https://github.com/niceboybao/baldwin/tree/master/Layout)|布局、css、sass、js
+|6|[`linux`](https://github.com/niceboybao/baldwin/tree/master/linux)|linux
+|7|[`markdown`](https://github.com/niceboybao/baldwin/tree/master/markdown) [`tools`](https://github.com/niceboybao/baldwin/tree/master/tools)|markdown常用语法及一些`使用教程`
+|8|[`2017-09`](https://github.com/niceboybao/baldwin/blob/master/2017-09.md)|开发小知识点汇总
+
 
 ```
 images Json 为辅助文件夹,方便其他文件夹的编辑与展示。总结为(辅助文件夹)
