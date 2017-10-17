@@ -18,6 +18,7 @@ These share important `resource` are from my usual work and learning,and hope yo
 
 |#|语法|效果|
 |---|---|----
+|1|[`#.front-end-interview`](#.front-end-interview/Package.md)|平时自己整理的一些面试题(前端)
 |1|[`images`](https://github.com/niceboybao/baldwin/blob/master/Cordova/Package.md) [`Json`](https://github.com/niceboybao/baldwin/blob/master/Cordova/Package.md)|Cordova的安装及打包流程
 |2|[`cordova.plugins.diagnostic`](https://github.com/niceboybao/baldwin/blob/master/Cordova/cordova.plugins.diagnostic.md)|用来管理`设备设置权限`，如位置、蓝牙、相机、麦克风等
 |3|[`Cordova-open-native-settings`](https://github.com/niceboybao/baldwin/blob/master/Cordova/cordova-open-native-settings.md)|在移动端上打开`操作系统设置`，如，打开键盘设置、Wifi、蓝牙、设置等
