@@ -28,16 +28,6 @@ These share important `resource` are from my usual work and learning,and hope yo
 |8|[`2017-09`](https://github.com/niceboybao/baldwin/blob/master/2017-09.md)|开发小知识点汇总
 
 
-```
-images Json 为辅助文件夹,方便其他文件夹的编辑与展示。总结为(辅助文件夹)
-Tools 为一些IDE的平时常用教程和mac系统的常用教程。总结为(工具文件夹)
-CSS，js等 为前端开发者必备语言的平时整理。总结为(前端文件夹)
-Linux 为平时对一些后台知识的了解。总结为(后端文件夹)
-markdown
-2017-09.md 为2017年9月开始，平时工作时间，解决了一些问题，或者觉得实用的速记（问题比较大，或者有借鉴意义在博客中实现）
-#.Front-end-interview为整理的前端面试
-```
-
 ## 3.Communication
 
 ![](static_res/images/tools/github.jpeg)
@@ -51,14 +41,6 @@ GitHub是2000多万开发者的家园，他们一起工作，共同主持和审�
 [Github](https://github.com/niceboybao)
 [知乎](https://www.zhihu.com/people/baldwin9191)
 [掘金](https://juejin.im/collection/58eca3746a22654fd3f92026)
-
-### 或者
-
-邮箱1: niceboybao@gmail.com
-
-邮箱2: guangwei.bao@hand-china.com
-
-linkedin: guangwei.bao@hand-china.com
 
 ### 总有那么一些情感让人刻苦铭心，总有那么一些话让人感同身受！
 
