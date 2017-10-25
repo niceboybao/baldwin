@@ -2,7 +2,7 @@
 
 `Cordova-open-native-settings`这个插件允许你在iOS 8+和Android上打开操作系统设置，例如，它允许你打开键盘设置、Wifi、蓝牙、设置等。了解更多请参考[Cordova-open-native-settings](https://github.com/guyromb/Cordova-open-native-settings) in github.
 
-****
+--------------------------------------------------------------------------------
 
 ## Adding/Removing the Plugin
 
