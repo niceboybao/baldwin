@@ -1,10 +1,11 @@
 # navigation
+
 ```
 foreach(var you in worlds) //遍历整个世界，只为找到你.
 {
-       if(you==&quot;myLove&quot;)   //当我发现你是我的真爱时,
+       if(you=="myLove")   //当我发现你是我的真爱时,
        {
-         myHeart[&quot;myWife&quot;]==you; //那么你就是我要找寻的人，我的妻子
+         myHeart["myWife"]==you; //那么你就是我要找寻的人，我的妻子
        }
 
 }
@@ -16,17 +17,16 @@ These share important `resource` are from my usual work and learning,and hope yo
 
 ## 2.Folder Information
 
-|#|语法|效果|
-|---|---|----
-|1|[`front-end-interview`](https://github.com/niceboybao/baldwin/tree/master/front-end-interview)|平时自己整理的一些面试题(前端)
-|2|[`angular`](https://github.com/niceboybao/baldwin/tree/master/angular) [`react`](https://github.com/niceboybao/baldwin/tree/master/react)|angular and react resource
-|3|[`cordova`](https://github.com/niceboybao/baldwin/tree/master/cordova)|常用打包插件的整理
-|4|[`es6`](https://github.com/niceboybao/baldwin/tree/master/es6) [`typescript`](https://github.com/niceboybao/baldwin/tree/master/typescript)|es6 and typescript resource
-|5|[`javaScript`](https://github.com/niceboybao/baldwin/tree/master/javaScript) [`Layout`](https://github.com/niceboybao/baldwin/tree/master/Layout)|布局、css、sass、js
-|6|[`linux`](https://github.com/niceboybao/baldwin/tree/master/linux)|linux
-|7|[`markdown`](https://github.com/niceboybao/baldwin/tree/master/markdown) [`tools`](https://github.com/niceboybao/baldwin/tree/master/tools)|markdown常用语法及一些`使用教程`
-|8|[`2017-09`](https://github.com/niceboybao/baldwin/blob/master/2017-09.md)|开发小知识点汇总
-
+# | 语法                                                                                                                                                | 效果
+- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------
+1 | [`front-end-interview`](https://github.com/niceboybao/baldwin/tree/master/front-end-interview)                                                    | 平时自己整理的一些面试题(前端)
+2 | [`angular`](https://github.com/niceboybao/baldwin/tree/master/angular) [`react`](https://github.com/niceboybao/baldwin/tree/master/react)         | angular and react resource
+3 | [`cordova`](https://github.com/niceboybao/baldwin/tree/master/cordova)                                                                            | 常用打包插件的整理
+4 | [`es6`](https://github.com/niceboybao/baldwin/tree/master/es6) [`typescript`](https://github.com/niceboybao/baldwin/tree/master/typescript)       | es6 and typescript resource
+5 | [`javaScript`](https://github.com/niceboybao/baldwin/tree/master/javaScript) [`Layout`](https://github.com/niceboybao/baldwin/tree/master/Layout) | 布局、css、sass、js
+6 | [`linux`](https://github.com/niceboybao/baldwin/tree/master/linux)                                                                                | linux
+7 | [`markdown`](https://github.com/niceboybao/baldwin/tree/master/markdown) [`tools`](https://github.com/niceboybao/baldwin/tree/master/tools)       | markdown常用语法及一些`使用教程`
+8 | [`2017-09`](https://github.com/niceboybao/baldwin/blob/master/2017-09.md)                                                                         | 开发小知识点汇总
 
 ## 3.Communication
 
@@ -38,9 +38,7 @@ GitHub是2000多万开发者的家园，他们一起工作，共同主持和审�
 
 ### 你可以在下面的方式中找到我
 
-[Github](https://github.com/niceboybao)
-[知乎](https://www.zhihu.com/people/baldwin9191)
-[掘金](https://juejin.im/collection/58eca3746a22654fd3f92026)
+[Github](https://github.com/niceboybao) [知乎](https://www.zhihu.com/people/baldwin9191) [掘金](https://juejin.im/collection/58eca3746a22654fd3f92026)
 
 ### 总有那么一些情感让人刻苦铭心，总有那么一些话让人感同身受！
 
@@ -54,6 +52,7 @@ GitHub是2000多万开发者的家园，他们一起工作，共同主持和审�
 但那又怎样，哪怕遍体鳞伤，也要活的漂亮！
 我是Baldwin，我为自己代言！
 ```
+
 ```
 . 放弃完美，多一分轻松
 . 面对现实，多一分从容
