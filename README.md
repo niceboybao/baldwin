@@ -16,17 +16,17 @@ foreach(var you in worlds) //遍历整个世界，只为找到你.
 These share important `resource` are from my usual work and learning,and hope you like!
 
 ## 2.Folder Information
+|#|语法|效果|
+|---|---|----
+|1|[`front-end-interview`](https://github.com/niceboybao/baldwin/tree/master/front-end-interview)|平时自己整理的一些面试题(前端)
+|2|[`angular`](https://github.com/niceboybao/baldwin/tree/master/angular) [`react`](https://github.com/niceboybao/baldwin/tree/master/react)|angular and react resource
+|3|[`cordova`](https://github.com/niceboybao/baldwin/tree/master/cordova)|常用打包插件的整理
+|4|[`es6`](https://github.com/niceboybao/baldwin/tree/master/es6) [`typescript`](https://github.com/niceboybao/baldwin/tree/master/typescript)|es6 and typescript resource
+|5|[`javaScript`](https://github.com/niceboybao/baldwin/tree/master/javaScript) [`Layout`](https://github.com/niceboybao/baldwin/tree/master/Layout)|布局、css、sass、js
+|6|[`linux`](https://github.com/niceboybao/baldwin/tree/master/linux)|linux
+|7|[`markdown`](https://github.com/niceboybao/baldwin/tree/master/markdown) [`tools`](https://github.com/niceboybao/baldwin/tree/master/tools)|markdown常用语法及一些`使用教程`
+|8|[`2017-09`](https://github.com/niceboybao/baldwin/blob/master/2017-09.md)|开发小知识点汇总
 
-# | 语法                                                                                                                                                | 效果
-- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------
-1 | [`front-end-interview`](https://github.com/niceboybao/baldwin/tree/master/front-end-interview)                                                    | 平时自己整理的一些面试题(前端)
-2 | [`angular`](https://github.com/niceboybao/baldwin/tree/master/angular) [`react`](https://github.com/niceboybao/baldwin/tree/master/react)         | angular and react resource
-3 | [`cordova`](https://github.com/niceboybao/baldwin/tree/master/cordova)                                                                            | 常用打包插件的整理
-4 | [`es6`](https://github.com/niceboybao/baldwin/tree/master/es6) [`typescript`](https://github.com/niceboybao/baldwin/tree/master/typescript)       | es6 and typescript resource
-5 | [`javaScript`](https://github.com/niceboybao/baldwin/tree/master/javaScript) [`Layout`](https://github.com/niceboybao/baldwin/tree/master/Layout) | 布局、css、sass、js
-6 | [`linux`](https://github.com/niceboybao/baldwin/tree/master/linux)                                                                                | linux
-7 | [`markdown`](https://github.com/niceboybao/baldwin/tree/master/markdown) [`tools`](https://github.com/niceboybao/baldwin/tree/master/tools)       | markdown常用语法及一些`使用教程`
-8 | [`2017-09`](https://github.com/niceboybao/baldwin/blob/master/2017-09.md)                                                                         | 开发小知识点汇总
 
 ## 3.Communication
 
