@@ -40,12 +40,14 @@ cordova plaform ls
 
 ## 4.打包cordova 应用
 
+### android系统
+
 ```
 1.cordova prepare ios/android
-2.//cordova build ios/android(build布置在Xcode上面执行)
+2.//cordova build ios/android
 ```
 
-## 5.要是ios打包，使用Xcode的情况
+### Ios系统（使用Xcode打包）
 
 在cordova platform add ios 后打开Xcode
 
