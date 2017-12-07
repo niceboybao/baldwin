@@ -4,6 +4,8 @@
 
 [掘金-CSS的垂直居中和水平居中总结](https://juejin.im/post/582c04032f301e00594327d4)
 
+[16种方法实现水平居中垂直居中](https://juejin.im/post/58f818bbb123db006233ab2a)
+
 ## 水平居中
 
 ### 1.行内元素（inline element）, 给其父元素设置 text-align:center （适用行内元素）
