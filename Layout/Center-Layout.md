@@ -17,7 +17,7 @@ inline element
 也叫内联元素、内嵌元素等；行内元素一般都是基于语义级(semantic)的基本元素，只能容纳文本或其他内联元素，常见内联元素 “a”。比如 SPAN 元素，IFRAME元素和元素样式的display : inline的都是行内元素。
 ```
 
-### 2.块级元素（block element ）, 该元素设置 margin:0 auto即可.（只有块级元素才生效）
+### 2.块级元素（block element）, 该元素设置 margin:0 auto即可.（只有块级元素才生效）
 
 [margin 0 auto与text-align:center的区别](http://www.studyofnet.com/news/41.html)
 

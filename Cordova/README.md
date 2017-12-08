@@ -2,7 +2,7 @@
 
 ## Learn more here
 
-cordova平时用到的一些插件整理，详细请请参考cordova官网<https://cordova.apache.org/>
+cordova平时用到的一些插件整理，详细请请参考 [cordova官网](https://cordova.apache.org/)
 
 ## Some useful points
 
