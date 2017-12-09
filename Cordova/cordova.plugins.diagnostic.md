@@ -227,6 +227,14 @@ cordova.plugins.diagnostic.requestCameraAuthorization(
 
 检查应用程序是否被授权使用麦克风权限。
 
+`Notes for Android:`
+
+This is intended for Android 6 / API 23 and above. Calling on Android 5 / API 22 and below will always return TRUE as permissions are already granted at installation time.
+
+`Notes for iOS:`
+
+Requires iOS 8+
+
 ```
 cordova.plugins.diagnostic.isMicrophoneAuthorized(successCallback, errorCallback);
 ```
