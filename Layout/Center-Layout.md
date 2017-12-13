@@ -17,7 +17,7 @@ inline element
 也叫内联元素、内嵌元素等；行内元素一般都是基于语义级(semantic)的基本元素，只能容纳文本或其他内联元素，常见内联元素 “a”。比如 SPAN 元素，IFRAME元素和元素样式的display : inline的都是行内元素。
 ```
 
-### 2.块级元素（block element）, 该元素设置 margin:0 auto即可.（只有块级元素才生效）
+### 2.块级元素（block element）, 该元素设置 margin:0 auto即可.只有块级元素才生效（`让整个块元素居中`）
 
 [margin 0 auto与text-align:center的区别](http://www.studyofnet.com/news/41.html)
 
@@ -123,9 +123,11 @@ magin: auto;
 
 ## flex弹性布局实现水平垂直居中
 
-用flex布局的水平垂直居中特别方便
+### 1.实现
 
-[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+用flex布局的水平垂直居中特别方便，想要进一步了解Flex弹性布局请参考[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)和 [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+
+`flex的居中`
 
 ```css
 .element {
@@ -136,3 +138,34 @@ magin: auto;
 ```
 
 但是用了flex布局后 有一些css属性会失效？
+
+### 2.存在的问题
+
+2.1 当一个块级元素要实现垂直居中(文本过短时)，和上下滚动(文本过长时)这种场景的时候往往会出现问题.
+
+```html
+<div class="div-bottom">
+  <div class="div-bottom-1">
+    水平垂直居下~~~~水平垂直居下~~~~
+  </div>
+</div>
+```
+
+```css
+.div-bottom {
+  display: flex;
+  height: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.div-bottom-1 {
+  margin: auto;
+  display: flex;
+  margin: auto;
+}
+```
+
+2.2 `align-items：center;(垂直)`和`justify-content：center;(水平)`的居中方向有的时候会相反
