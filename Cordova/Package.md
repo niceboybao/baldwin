@@ -51,15 +51,15 @@ cordova plaform ls
 
 在cordova platform add ios 后打开Xcode
 
-![](../static_res/images/tools/Xcode1.png)
+![](../static/images/tools/Xcode1.png)
 
 注意选择team为HAND
 
-![](../static_res/images/tools/Xcode3.png)
+![](../static/images/tools/Xcode3.png)
 
 and
 
-![](../static_res/images/tools/Xcode2.png)
+![](../static/images/tools/Xcode2.png)
 
 ## #.Tips
 

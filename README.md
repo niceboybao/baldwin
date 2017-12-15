@@ -30,7 +30,7 @@ These share important `resource` are from my usual work and learning,and hope yo
 
 ## 3.Communication
 
-![](static_res/images/tools/github.jpeg)
+![](static/images/tools/github.jpeg)
 
 GitHub是2000多万开发者的家园，他们一起工作，共同主持和审核代码，管理项目，并一起构建软件。
 
