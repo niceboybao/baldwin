@@ -1,4 +1,4 @@
-# 中文技术文档的写作规范
+# 中文技术文档的写作规范(document-style-guide)
 
 ## Learn more here
 
