@@ -1,1 +1,1 @@
-# JavaScript or jQuery
+# JavaScript typescript
