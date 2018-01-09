@@ -2,13 +2,13 @@
 
 ## JSON.stringify() 和 JSON.parse()
 
-JS对象转换成为JSON
+JS(对象或者数组)转换成一个JSON字符串
 
 ```javascript
 JSON.stringify()
 ```
 
-JSON转换成为JS
+解析JSON字符串 转换成JS(对象或者数组)
 
 ```javascript
 JSON.parse()
