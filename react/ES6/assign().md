@@ -28,6 +28,21 @@ const a = {};
 Object.assign(a, {x: 3});
 ```
 
+在拷贝的过程中修改对象的某个属性
+
+```javascript
+var burryPoint = {
+    "userName": "",
+    "fullName": "",
+    "school": "",
+};
+return Object.assign({}, burryPoint, {
+    userName: res.username,
+    fullName: res.givename,
+    school: school.join(",") //将数组转成字符串
+});
+```
+
 `注意` Object.assign() 克隆时，只会做赋值操作，嵌套对象直接传递引用，不是深拷贝。
 
 ## 关联
