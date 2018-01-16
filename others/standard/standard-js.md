@@ -1,8 +1,10 @@
 # 代码规范(standard-css)
 
-## js
+## javascript
 
 [JavaScript 开发人员需要知道的简写技巧](https://juejin.im/entry/59eea9376fb9a045204b662a?utm_medium=fe&utm_source=weixinqun)
+
+[github JavaScript Style Guide](https://github.com/airbnb/javascript?utm_source=gold_browser_extension)
 
 ## 综合
 
