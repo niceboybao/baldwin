@@ -1,4 +1,4 @@
-# console.log
+# console
 
 ## Learn more here
 
