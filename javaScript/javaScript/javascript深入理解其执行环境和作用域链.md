@@ -1,6 +1,6 @@
 # javascript深入理解其执行环境和作用域链
 
-## 作者：guangwei.bao
+## 作者：niceboybao
 
 ## 执行环境
 
@@ -160,7 +160,7 @@ function changecolor() {
         // 第八步tempcolor赋值anothercolor,anothercolor和color会沿着scope chain被查到，并继续往下执行
         var tempcolor = anothercolor;
             anothercolor = color;
-            color = tempcolor;    
+            color = tempcolor;
     }
 
     // 第六步执行swapcolors,进入其执行环境
@@ -178,7 +178,7 @@ changecolor();
 先看下面代码：
 
 ```
-var myvar = 'my value';  
+var myvar = 'my value';
 alert(myvar); // my value
 ```
 
@@ -187,10 +187,10 @@ alert(myvar); // my value
 再看下面这样
 
 ```
-var myvar = 'my value';  
+var myvar = 'my value';
 (function(){
     alert(myvar); // undefined
-    var myvar = 'you value';  
+    var myvar = 'you value';
 })()
 ```
 
@@ -201,11 +201,11 @@ var myvar = 'my value';
 上面的代码会被解析成下面这样：
 
 ```
-var myvar = 'my value';  
+var myvar = 'my value';
 (function(){
     var myvar;
     alert(myvar); // undefined
-    myvar = 'you value';  
+    myvar = 'you value';
 })()
 ```
 
@@ -217,7 +217,7 @@ var myvar = 'my value';
 count(1,2); // 3
 function count(a,b)
 {
-    alert(a+b);    
+    alert(a+b);
 }
 ```
 
@@ -225,7 +225,7 @@ function count(a,b)
 count(1,2); // 会报错误count is not a function
 var count = function (a,b)
 {
-    alert(a+b);    
+    alert(a+b);
 }
 ```
 
@@ -238,7 +238,7 @@ var count;
 count(1,2); // 会报错误count is not a function
 count = function (a,b)
 {
-    alert(a+b);    
+    alert(a+b);
 }
 ```
 
