@@ -18,7 +18,7 @@
 
 atom右上角的小地图,让你了解当前屏幕所处相对位置.
 
-### terminal-plus
+### ~~terminal-plus~~ (platformio-ide-terminal)
 
 ~~terminal-plus~~ 插件在mac上面无法输入命令，安装了node-gyp也不行(是个bug)，所以用`platformio-ide-terminal`替代
 
@@ -32,7 +32,17 @@ ctrl+`      //打开/关闭控制台
 cmd-shift-x  //关闭当前打开的控制台
 ```
 
-platformio-ide-terminal插件可以编辑窗口样式吗？？
+### terminal控制台样式设置
+
+设置文字和背景
+
+![](../../static/images/tools/atom/terminal-style1.png)
+
+![](../../static/images/tools/atom/terminal-style2.png)
+
+打开多个控制台还可以用命名和颜色区分哈
+
+![](../../static/images/tools/atom/terminal-style3.png)
 
 ### svn
 

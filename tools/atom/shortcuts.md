@@ -148,3 +148,11 @@ ctrl-shift-L 选择文本类型
 ctrl-shift-M Markdown预览
 可用代码片段 b, legal, img, l, i, code, t, table
 ```
+
+### 操作控制台
+
+```
+cmd-shift-t //创建一个新的控制台
+ctrl+`      //打开/关闭控制台
+cmd-shift-x  //关闭当前打开的控制台
+```
