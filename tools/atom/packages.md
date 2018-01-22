@@ -48,6 +48,8 @@ cmd-shift-x  //关闭当前打开的控制台
 
 Marks lines/files in the editor gutter/treeview that have been added, edited, or deleted since the last commit.
 
+#### mac上面暂时没有找到可以使用的svn插件，atom配合cornerstone使用吧
+
 ### autocomplete-paths
 
 文件路径自动提示
