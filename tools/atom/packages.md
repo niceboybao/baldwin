@@ -35,7 +35,8 @@ atom右上角的小地图,让你了解当前屏幕所处相对位置.
 展示工程在git上面提交的日志
 
 ```
-Cmd-Shift-P  //打开日志面板
+Cmd-Shift-P
+Git Log: Show //打开日志面板
 ```
 
 ### ~~terminal-plus~~ (platformio-ide-terminal)

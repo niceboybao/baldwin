@@ -13,6 +13,7 @@ cmd-, 打开偏好设置
 cmd-L 选取一行，继续按回选取下一行
 ctrl-shift-K 删除一行(当前行)
 cmd-shift-F 在整个工程中查找
+cmd-shift-P 可以搜索快捷键
 ```
 
 ### 文件切换
