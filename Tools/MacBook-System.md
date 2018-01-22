@@ -29,7 +29,7 @@ ps：其实对于升级系统前，已经是任何来源选项的，还会显示
 
 ![](../static/images/macbook/lock_screen_hint.png)
 
-## 3\. Macbook上安装的全局依赖路径
+## 4\. Macbook上安装的全局依赖路径
 
 ```
 /usr/local/lib/node_modules/npm
