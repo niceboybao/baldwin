@@ -18,6 +18,26 @@
 
 atom右上角的小地图,让你了解当前屏幕所处相对位置.
 
+### File Icons
+
+工程文件图标样式
+
+### highlight-selected
+
+单词选择高亮(相同的也高亮)
+
+### merge-conflicts
+
+直接用atom解决代码冲突
+
+### git-log
+
+展示工程在git上面提交的日志
+
+```
+Cmd-Shift-P  //打开日志面板
+```
+
 ### ~~terminal-plus~~ (platformio-ide-terminal)
 
 ~~terminal-plus~~ 插件在mac上面无法输入命令，安装了node-gyp也不行(是个bug)，所以用`platformio-ide-terminal`替代
