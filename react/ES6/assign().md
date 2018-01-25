@@ -39,6 +39,7 @@ var burryPoint = {
 return Object.assign({}, burryPoint, {
     userName: res.username,
     fullName: res.givename,
+    //fullName: null (删除属性)
     school: school.join(",") //将数组转成字符串
 });
 ```

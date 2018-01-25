@@ -37,4 +37,4 @@ ps：其实对于升级系统前，已经是任何来源选项的，还会显示
 /usr/local/lib/node_modules
 ```
 
-/usr/local/里面是我们下载的东西的库
+/usr/local/里面是我们下载的东西的库，可以通过`npm uninstall -g gitbook`卸载
