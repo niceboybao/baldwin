@@ -4,6 +4,7 @@
 
 ```sh
 ls  显示文件或目录
+ls -a 显示文件夹所有的隐藏文件
 cd  切换目录
 pwd 查看当前文件目录
 control+c npm ru的时候结束进程
