@@ -11,6 +11,7 @@
 ```sh
 cmd-空格 //打开spotlight(非常实用的搜索功能)
 cmd-Shift-G //在finder，可以查找文件
+cmd-Shift-> //在当前文件夹下显示隐藏文件
 ```
 
 ### 打开终端快捷键
