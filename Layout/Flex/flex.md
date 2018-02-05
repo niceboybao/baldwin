@@ -22,6 +22,8 @@ shortcoming:针对换行文本不支持
 
 2.row col 老是分不清
 
+`row`表示一行`col`表示一列
+
 ```html
 <ons-row>
   <ons-col>1</ons-col>
