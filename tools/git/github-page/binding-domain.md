@@ -6,6 +6,8 @@
 
 [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 
+[用阿里云免费ssl证书把网站从http变成https](https://jingyan.baidu.com/album/9f7e7ec09c80976f281554f1.html?picindex=8)
+
 ## 配置 niceboybao.github.io
 
 ### 创建repository
@@ -33,3 +35,19 @@
 配置完了勾选点击启动就ok啦！要全球解析生效，好像得等上一会了。后面就开始你们的表演吧，用自己熟悉的框架开发一个属于自己的blogs吧！[niceboybao.com](http://niceboybao.com/)
 
 另外，在GitHub上面的仓库只要在settings里面把他们发布到网站上面，就可以用niceboybao.com/xxx（xxx表示仓库名）访问到如：[valentines_day](http://niceboybao.com/valentines_day/)。
+
+## 用阿里云免费ssl证书把网站从http变成https
+
+![](https://user-gold-cdn.xitu.io/2018/2/27/161d5ff0380407be?w=200&h=60&f=png&s=9232)
+
+HTTP 协议是不加密传输数据的，也就是用户跟你的网站之间传递数据有可能在途中被截获，破解传递的真实内容，所以使用不加密的 HTTP 的网站是不太安全的。所以， Google 的 Chrome 浏览器将在 2017 年 1 月开始，标记使用不加密的 HTTP 协议的网站为 Not Secure，不安全。
+
+### 登录阿里云后台，找到，产品与服务-》找到证书服务，购买证书
+
+![](https://user-gold-cdn.xitu.io/2018/2/27/161d5f804d1e857e?w=3348&h=1362&f=jpeg&s=392645)
+
+### 找到免费型的DV SSL
+
+![](https://user-gold-cdn.xitu.io/2018/2/27/161d6010aeacc461?w=2006&h=1032&f=jpeg&s=140192)
+
+购买后在订单页面点击`补全`，输入你的域名，如xxx.com，最后提交审核。当证书是已签发状态时，就可下载
