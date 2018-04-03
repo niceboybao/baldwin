@@ -61,6 +61,17 @@ cmd-shift-x  //关闭当前打开的控制台
 
 ![](../../static/images/tools/atom/terminal-style2.png)
 
+```css
+.standard {
+    background-color: #0E0F11;
+    color: #7DF64B;
+
+    .terminal-cursor {
+        background-color: white;
+    }
+}
+```
+
 打开多个控制台还可以用命名和颜色区分哈
 
 ![](../../static/images/tools/atom/terminal-style3.png)
